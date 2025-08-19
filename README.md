@@ -14,7 +14,7 @@
 
 - you're ready to go:
 
-        git clone https://github.com/f3lipees/AIDirectoryScanner.git
+        git clone https://github.com/Alb4don/AIDirectoryScanner.git
 
         cd AIDirectoryScanner
         chmod +x ai_dirscan.py
